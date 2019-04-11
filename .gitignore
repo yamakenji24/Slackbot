@@ -1,0 +1,7 @@
+
+# ignore bundler config.
+/.bundle
+
+# ignore vendor
+
+/vendor
