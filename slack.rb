@@ -1,6 +1,6 @@
 require 'slack-ruby-client'
 
-TOKEN = 'xoxb-590459780083-608645891543-JrUo7UE0PDZdrQ6Am8a1YwX0'
+TOKEN = ''
 
 Slack.configure do |conf|
   conf.token = TOKEN
