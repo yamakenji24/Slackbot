@@ -3,5 +3,6 @@
 /.bundle
 
 # ignore vendor
-
 /vendor
+
+.env
